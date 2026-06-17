@@ -20,3 +20,21 @@ body {
     border: 3px solid #95b8d1 ;
     border-radius: 30px;
 }
+
+.ellies-corner {
+    background-color: #ffda9e;
+}
+
+.ellies-corner-h1 {
+    font-family: "Bradley Hand", "Segoe Print", "Chalkboard SE", "Comic Sans MS", cursive;
+}
+
+.ellies-corner-p {
+    font-family: "Bradley Hand", "Segoe Print", "Chalkboard SE", "Comic Sans MS", cursive;
+    font-size: large;
+}
+
+.ellies-corner-img {
+    border: 3px solid black;
+    border-radius: 50px; 
+}
