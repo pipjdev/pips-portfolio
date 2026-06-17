@@ -35,6 +35,6 @@ body {
 }
 
 .ellies-corner-img {
-    border: 3px solid black;
-    border-radius: 50px; 
+    border: 10px solid black;
+    border-radius: 5px; 
 }
